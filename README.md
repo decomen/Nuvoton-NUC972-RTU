@@ -57,8 +57,7 @@ DM-C102G-V1智能物联网关在众多场景中应用广泛，典型应用场景
 ​     深圳市蒂蒙技术有限公司是一家专注于工业物联网领域的高科技企业，自主研发了工业物联网平台产品AIoTOS和物联网边缘侧产品EdgeOS，为5G时代万物互联提供核心的底层物联技术。作为企业构建物联中台、园开发物联网AIOT行业应用的专业合作伙伴，我们在物联网底层技术的积累与拓展中，已完成多个行业AIOT应用，包括城市智慧大脑双碳系统、工业智慧能耗系统、智能水厂生产调度系统、智慧水务监测系统、智慧工业区系统等。
 
 联系我们
-
-![]([[C:\Users\86134\Desktop\生态.jpg](https://github.com/decomen-dev/Nuvoton-NUC972-RTU/blob/master/%E5%B0%8F%E7%94%B0.png)])
+![](https://github.com/decomen-dev/Nuvoton-NUC972-RTU/blob/master/%E5%B0%8F%E7%94%B0.png)
 
 ## 内核及文件系下载址
 
