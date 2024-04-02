@@ -62,7 +62,7 @@ DM-C102G-V1智能物联网关在众多场景中应用广泛，典型应用场景
 
 ## 内核及文件系下载址
 
-百度网盘链接:https://pan.baidu.com/s/1-Y86874XgE2CWpXmYGpTlw 
+百度网盘链接:https://pan.baidu.com/s/1HBMhoXUU7Jh-mGB7GSlyFw 
 
 提取码:请扫描二维码跟客户获取。
 
