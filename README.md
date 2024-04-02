@@ -58,7 +58,7 @@ DM-C102G-V1智能物联网关在众多场景中应用广泛，典型应用场景
 
 联系我们
 
-![]([C:\Users\86134\Desktop\生态.jpg](https://github.com/decomen-dev/Nuvoton-NUC972-RTU/blob/master/%E5%B0%8F%E7%94%B0.png))
+![]([[C:\Users\86134\Desktop\生态.jpg](https://github.com/decomen-dev/Nuvoton-NUC972-RTU/blob/master/%E5%B0%8F%E7%94%B0.png)])
 
 ## 内核及文件系下载址
 
